@@ -25,6 +25,9 @@ This course will concentrate on modeling, generation, and prediction of multiple
 **Pre-requisites**
 A formal introductory ML course like CS 725 or CS 337 or CS 419 is required. Online ML courses do not qualify as pre-requisites. The course assumes basic knowledge of probability, statistics, and linear algebra. Chapters 2 and 3 of the [Deep-learning book](http://www.deeplearningbook.org/) are a good place to refresh the necessary required background. Also, the course assumes basic background in machine learning, for example as covered in Chapter 5 of the [Deep-learning book](http://www.deeplearningbook.org/) and deep learning, for example, as covered in Chapter 6 of the same book. Further, we will assume that students are familiar with CNNs, RNNs, and sequence to sequence learning with attention.
 
+###
+
+
 #### CS 748 : <u> Advances in Intelligent and Learning Agents</u>
 
 **Syllabus**
@@ -115,5 +118,6 @@ Penalized and generalized linear models: Logistic regression, L1 and L2 penaliza
 **Pre-requisites**
 N/A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1Njg1Nzc5LDE4MDAzMjg4MTZdfQ==
+eyJoaXN0b3J5IjpbNzc5OTE0NzAwLDQxNTY4NTc3OSwxODAwMz
+I4ODE2XX0=
 -->
