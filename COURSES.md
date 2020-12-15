@@ -109,7 +109,11 @@ Compressed sensing, finite rate of innovation signals and their sampling methods
 A basic DSP course would be helpful to understand the concepts taught in the course – EE338 (although not a hard pre-requisite)
 
 #### EE782 : <u>ADVANCED MACHINE LEARNING</u>
+**Syllabus**
 Penalized and generalized linear models: Logistic regression, L1 and L2 penalization, elastic net, SCAD penalty, application to high dimensional low sample size problems. Intro to neural networks: Artificial neuron, single hidden layer, multiple hidden layer, back propagation, momentum, loss functions, relation with support vector machines and penalized logistic regression. Convolutional neural networks: Convolutional layers, pooling layers, drop out, VGGnet, inception modules, residual networks, deconv nets, applications to object recognition. Why deep learning works: Role of depth, closeness of local minima to global minimal, predominance of saddle points and ridges vs. local minima. Recurrent neural networks and LSTMs: lateral connections, LSTM units, gated recurrent networks, applications to NLP. Probabilistic Graphical Models: Factor graphs and belief networks, Deep belief networks and Boltzmann machines, sampling methods including Gibbs sampling, contrastive divergence, generative adversarial networks.
+
+**Pre-requisites**
+N/A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk0NDczMjQsMTgwMDMyODgxNl19
+eyJoaXN0b3J5IjpbNDE1Njg1Nzc5LDE4MDAzMjg4MTZdfQ==
 -->
