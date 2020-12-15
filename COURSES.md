@@ -4,7 +4,7 @@
 
 ### CSE Department
 
-#### 1. **CS 419 M** : <u>Introduction to Machine Learning</u>
+#### **CS 419 M** : <u>Introduction to Machine Learning</u>
 **Syllabus**
 Basic classification/regression techniques such as Naive Bayes', decision trees, SVMs, boosting/bagging and linear/logistic regression, maximum likelihood estimates, regularization, basics of statistical learning theory, perceptron rule/multi-layer perceptrons, backpropagation, brief introduction to deep learning models, dimensionality reduction techniques like PCA and LDA, unsupervised learning: k-means clustering, gaussian mixture models, selected topics from natural/spoken language processing, computer vision, etc.
 
@@ -72,9 +72,15 @@ N/A
 
 ### EE Department
 
-
+#### EE679 : SPEECH PROCESSING
+Speech production and acoustic phonetics, speech perception.;Speech analysis: time and frequency domain techniques for pitch and formant estimation, cepstral and LPC analysis.;Speech synthesis: articulatory, formant, and LPC synthesis, voice response and text-to-speech systems.;Applications: data compression, vocoders, speech enhancement, speech recognition, speaker recognition, aids for the speech and hearing impairments.
+Text/References
+D O'Shaughnessy, Speech Communication: Human and Machine, Addison Wesley, 1987.
+L R Rabiner and RW Schafer, Digital Processing of Speech Signals, Prentice Hall, 1978.
+JL Flanagan, Speech Analysis, Synthesis, and Perception, Springer Verlag, 1972.
+Selected papers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI2ODc2MjYsMTgwMDMyODgxNl19
+eyJoaXN0b3J5IjpbLTEyMzgyODI0ODAsMTgwMDMyODgxNl19
 -->
