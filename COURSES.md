@@ -61,10 +61,12 @@ This course is open to 3rd and 4th year B.Tech., M.Tech. and Ph.D. students, who
 Background: History of Neural Nets; History of NLP; Basic Mathematical Machinery- Linear Algebra, Probability, Information Theory etc.; Basic Linguistic Machinery- Phonology, morphology, syntax, semantics Introducing Neural Computation: Perceptrons, Feedforward Neural Network and Backpropagation, Recurrent Neural Nets Difference between Classical Machine Learning and Deep Learning: Representation- Symbolic Representation, Distributed Representation, Compositionality; Parametric and non-parametric learning Word Embeddings: Word2Vec (CBOW and Skip Gram), Glove, FastText Application of Word Embedding to Shallow Parsing- Morphological Processing, Part of Speech Tagging and Chunking Sequence to Sequence (seq2seq) Transformation using Deep Learning: LSTMs and Variants, Attention, Transformers Deep Neural Net based Language Modeling: XLM, BERT, GPT2-3 etc; Subword Modeling; Transfer Learning and Multilingual Modeling Application of seq2seq in Machine Translation: supervised, semi supervised and unsupervised MT; encoder-decoder and attention in MT; Memory Networks in MT Deep Learning and Deep Parsing: Recursive Neural Nets; Neural Constituency Parsing; Neural Dependency Parsing Deep Learning and Deep Semantics: Word Embeddings and Word Sense Disambiguation; Semantic Role Labeling with Neural Nets Indispensability of DNN in Multimodal NLP; Advanced Problems like Sarcasm, Metaphor, Humour and Fake News Detection using multimodality and DNN Natural Language Generation; Extractive and Abstractive Summarizationwith Neural Nets- Explainability
 
 **Pre-requisites**
+N/A
 
+#### CS 769 :  <u>Optimization in Machine Learning
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDMyODgxNl19
+eyJoaXN0b3J5IjpbLTE5MDY3NjY0NDQsMTgwMDMyODgxNl19
 -->
