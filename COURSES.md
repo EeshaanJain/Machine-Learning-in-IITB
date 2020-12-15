@@ -84,6 +84,18 @@ Skills: MATLAB
 **Syllabus**
 Introduction: Biological neurons and memory: Structure and function of a single neuron; Artificial Neural Networks (ANN); Typical applications of ANNs : Classification, Clustering, Vector Quantization, Pattern Recognition, Function Approximation, Forecasting, Control, Optimization; Basic Approach of the working of ANN - Training, Learning and Generalization.;Supervised Learning: Single-layer networks; Perceptron-Linear separability, Training algorithm, Limitations; Multi-layer networks-Architecture, Back Propagation Algorithm (BTA) and other training algorithms, Applications. Adaptive Multi-layer networks-Architecture, training algorithms; Recurrent Networks; Feed-forward networks; Radial-Basis-Function (RBF) networks.;Unsupervised Learning: Winner-takes-all networks; Hamming networks; Maxnet; Simple competitive learning; Vector-Quantization; Counter propagation networks; Adaptive Resonance Theory; Kohonen's Self-organizing Maps; Principal Component Analysis.;Associated Models: Hopfield Networks, Brain-in-a-Box network; Boltzmann machine.;Optimization Methods: Hopfield Networks for-TSP, Solution of simultaneous linear equations; Iterated Gradient Descent; Simulated Annealing; Genetic Algorithm.
 
+**Pre-requisites**
+N/A
+
+#### EE763 : <u>SCIENCE OF INFORMATION STATISTICS AND LEARNING</u>
+**Syllabus**
+Information Theory basics: Bayes’ theorem, Random Variables, Independence and Conditioning, Shannon entropy, Relative entropy, Mutual Information, Markov chains, Sanov’s theorem.
+Statistics: Linear regression, statistical model, Exponential families, sampling, Monte Carlo, inference, Maximum Likelihood Estimation, Maximum a posteriori, Bayesian Inference.
+Inference: MaxENT algorithm, relation between Bayesian and MaxENT methods, Statistical Mechanics, Ising models, graphical models, Hammersley-Clifford theorem, EM algorithm, belief propagation.
+Learning: Introduction to neural networks, the single neuron as a classifier, capacity of a single neuron, learning as inference, Hopfield networks, Boltzmann machines, Supervised learning in multilayered networks, Gaussian processes, Deconvolution.
+Application to Chemical Reaction Networks: Introduction to chemical reaction networks, Mass-action kinetics, Chemical Master Equation, Birch’s theorem, Connection to exponential families, the MLE algorithm using reaction networks, current topics in molecular intelligence.
+
+**Pre-requisites**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzE3NTYxMSwxODAwMzI4ODE2XX0=
+eyJoaXN0b3J5IjpbLTE4NDcyNzI1MTUsMTgwMDMyODgxNl19
 -->
