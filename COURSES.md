@@ -100,6 +100,10 @@ Application to Chemical Reaction Networks: Introduction to chemical reaction net
  b) Basics of Machine Learning including tensors, autograd, optimization by gradient descent, loss functions, neural network basics, training and validation sets.
  c) Some basic introduction to statistics including maximum likelihood estimation and Bayesian inference.
  d) Probability theory at a naive level, Markov chains, and basic information theory at the level of Chapter 2 of "Elements of Information Theory" by Cover and Thomas.
+
+#### EE771:  <u>RECENT TOPICS IN ANALYTICAL SIGNAL PROCESSING</u>
+**Syllabus**
+Compressed sensing, finite rate of innovation signals and their sampling methods, graph signal processing and its applications, phase retrieval problems, distributed sampling problems, machine learning for signal processing, role of quantization and other nonlinearities in signal processing systems, signal approximation methods
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MDM3OTgwLDE4MDAzMjg4MTZdfQ==
+eyJoaXN0b3J5IjpbMTAwNzE2NjMxMywxODAwMzI4ODE2XX0=
 -->
