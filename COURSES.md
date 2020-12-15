@@ -63,10 +63,18 @@ Background: History of Neural Nets; History of NLP; Basic Mathematical Machinery
 **Pre-requisites**
 N/A
 
-#### CS 769 :  <u>Optimization in Machine Learning
+#### CS 769 :  <u>Optimization in Machine Learning</u>
+**Syllabus** 
+N/A
+
+**Pre-requisites**
+N/A
+
+### EE Department
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY3NjY0NDQsMTgwMDMyODgxNl19
+eyJoaXN0b3J5IjpbLTE4MjI2ODc2MjYsMTgwMDMyODgxNl19
 -->
