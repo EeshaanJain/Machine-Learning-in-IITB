@@ -72,15 +72,18 @@ N/A
 
 ### EE Department
 
-#### EE679 : SPEECH PROCESSING
+#### EE679 : <u>SPEECH PROCESSING</u>
+**Syllabus**
 Speech production and acoustic phonetics, speech perception.;Speech analysis: time and frequency domain techniques for pitch and formant estimation, cepstral and LPC analysis.;Speech synthesis: articulatory, formant, and LPC synthesis, voice response and text-to-speech systems.;Applications: data compression, vocoders, speech enhancement, speech recognition, speaker recognition, aids for the speech and hearing impairments.
-Text/References
-D O'Shaughnessy, Speech Communication: Human and Machine, Addison Wesley, 1987.
-L R Rabiner and RW Schafer, Digital Processing of Speech Signals, Prentice Hall, 1978.
-JL Flanagan, Speech Analysis, Synthesis, and Perception, Springer Verlag, 1972.
-Selected papers
 
+**Pre-requisites**
+Courses: Digital Signal Processing (EE 338 – 6th sem), Probability (EE325 – 5th sem)
+Skills: MATLAB
+
+#### EE704 : <u>ARTIFICIAL NEURAL NETWORKS</u>
+**Syllabus**
+Introduction: Biological neurons and memory: Structure and function of a single neuron; Artificial Neural Networks (ANN); Typical applications of ANNs : Classification, Clustering, Vector Quantization, Pattern Recognition, Function Approximation, Forecasting, Control, Optimization; Basic Approach of the working of ANN - Training, Learning and Generalization.;Supervised Learning: Single-layer networks; Perceptron-Linear separability, Training algorithm, Limitations; Multi-layer networks-Architecture, Back Propagation Algorithm (BTA) and other training algorithms, Applications. Adaptive Multi-layer networks-Architecture, training algorithms; Recurrent Networks; Feed-forward networks; Radial-Basis-Function (RBF) networks.;Unsupervised Learning: Winner-takes-all networks; Hamming networks; Maxnet; Simple competitive learning; Vector-Quantization; Counter propagation networks; Adaptive Resonance Theory; Kohonen's Self-organizing Maps; Principal Component Analysis.;Associated Models: Hopfield Networks, Brain-in-a-Box network; Boltzmann machine.;Optimization Methods: Hopfield Networks for-TSP, Solution of simultaneous linear equations; Iterated Gradient Descent; Simulated Annealing; Genetic Algorithm.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgyODI0ODAsMTgwMDMyODgxNl19
+eyJoaXN0b3J5IjpbMTY5NzE3NTYxMSwxODAwMzI4ODE2XX0=
 -->
