@@ -25,7 +25,12 @@ This course will concentrate on modeling, generation, and prediction of multiple
 **Pre-requisites**
 A formal introductory ML course like CS 725 or CS 337 or CS 419 is required. Online ML courses do not qualify as pre-requisites. The course assumes basic knowledge of probability, statistics, and linear algebra. Chapters 2 and 3 of the [Deep-learning book](http://www.deeplearningbook.org/) are a good place to refresh the necessary required background. Also, the course assumes basic background in machine learning, for example as covered in Chapter 5 of the [Deep-learning book](http://www.deeplearningbook.org/) and deep learning, for example, as covered in Chapter 6 of the same book. Further, we will assume that students are familiar with CNNs, RNNs, and sequence to sequence learning with attention.
 
-###
+#### CS 747 : <u> Foundations of Intelligent and Learning Agents (FILA) </u>
+**Syllabus**
+he course provides an excellent overview of several concepts of Reinforcement Learning(RL) starting with Multi-armed Bandits, MDP Planning, Monte Carlo policy evaluation, Temporal Difference(TD) learning, Q-Learning, Sarsa, Tile coding, Policy gradients, Multi-agent learning, Inverse RL, Reward shaping, etc. The course contents are directly matched with those provided in the reference book (Reinforcement Learning: An Introduction by Sutton & Barto) and this makes it easier to follow and understand the course.
+
+**Pre-requisites**
+Though the course does not have any hard prerequisites, the instructor only allows final year B.Tech. students to register for the course. It will be an added advantage if you have undertaken the CS 344: Artificial Intelligence course since you will be able to follow the course contents more easily. Its okay if you haven’t done a Machine Learning course before doing FILA since the concepts taught here are somewhat orthogonal to that.
 
 
 #### CS 748 : <u> Advances in Intelligent and Learning Agents</u>
@@ -118,6 +123,6 @@ Penalized and generalized linear models: Logistic regression, L1 and L2 penaliza
 **Pre-requisites**
 N/A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5OTE0NzAwLDQxNTY4NTc3OSwxODAwMz
-I4ODE2XX0=
+eyJoaXN0b3J5IjpbLTEzODk0OTI2MDUsNDE1Njg1Nzc5LDE4MD
+AzMjg4MTZdfQ==
 -->
